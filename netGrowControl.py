@@ -3,7 +3,6 @@
 import digraph
 import matchings
 import random
-from scipy.stats import bernoulli
 
 __author__ = 'Luis Úbeda (http://www.github.com/lubeme)'
 

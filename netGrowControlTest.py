@@ -1,4 +1,4 @@
-import netGen
+import netGrowControl
 import json
 
 iters = 100
